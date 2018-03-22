@@ -1,11 +1,11 @@
 # Resume Luca Polverini
 
-@Author:    Luca Polverini
-@Address:   Loc. Battifolle 61/B
-            I-52100 Arezzo (AR)
-            Italy
+@Author:    Luca Polverini (Electrical Engineer MSc)  
+@Address:   Loc. Battifolle 61/B  
+            I-52100 Arezzo (AR)  
+            Italy  
 
-@Mobile:    +39 331.92.13.582
+@Mobile:    +39 331.92.13.582  
 @Email:     luca.polverini@gmail.com
 
 ## Summary
