@@ -6,7 +6,8 @@
             Italy  
 
 @Mobile:    +39 331.92.13.582  
-@Email:     luca.polverini@gmail.com
+@Email:     luca.polverini@gmail.com  
+@Web:       [linkedin](https://www.linkedin.com/in/lucapolverini/)
 
 ## Summary
 
