@@ -81,7 +81,7 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 ---
 
-### 2012-2014/02 : Riacetech S.r.l.
+### 2012 - 2014/02 : Riacetech S.r.l.
 
 **New Technology Developer**
 
@@ -89,13 +89,13 @@ I managed a small R&D team and I developed software for process automation, mach
 
 ---
 
-### 2004-2006 : Università degli Studi di Siena
+### 2004 - 2006 : Università degli Studi di Siena
 
 **Lecturer** Process Automation course.
 
 ---
 
-### 2001-2012 : Self Employed
+### 2001 - 2012 : Self Employed
 
 **Industrial Automation Engineer**
 
@@ -105,7 +105,7 @@ Warehouse (Electrical and Renewable Energies Market);
 
 ---
 
-### 1999-2001 : Elettrostandard S.p.A.
+### 1999 - 2001 : Elettrostandard S.p.A.
 
 **Electrica Engineer**
 
@@ -168,7 +168,7 @@ Università degli Studi di Bologna , Facoltà di Ingegneria.
 
 Science and Math High School Diploma with first class honours (60/60). Liceo Scientifico "F. Redi" – Arezzo.
 
-### 2012, today
+### 2012 - today
 
 I am a lifelong learner and I constantly enrol in MOOC dealing with: Machine learning, Logic and Math, Visual Design, Visual Development, Storytelling, Cognitive Psychology, UX Design.
 
