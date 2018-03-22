@@ -39,7 +39,8 @@ I have a multi-disciplinary background from both engineering and social sciences
 ### Tools
 
 * Data Analysis: **Python** (and IPython), Octave, Matlab, R
-* Object Oriented Programming: **JavaScript** (AngularJS, Angular, RxJS, D3.js), **Python**, Java, **C++**, 
+* Object Oriented Programming: **JavaScript** (AngularJS, Angular, RxJS, D3.js), **Python**, Java, **C++**,
+* Web development: HTML5, CSS, Javascript, AJAX, JSON, web services (RESTful, ...)
 * Database: SQL (IBM DB2, **MySQL**, **SQLite**, Microsoft Access),
 * TDD and BDD: Karma, Jasmine, Chai,
 * Automation Server: Jenkins,
@@ -124,6 +125,7 @@ Warehouse (Electrical and Renewable Energies Market);
 
 * Data Analysis: **Python** (and IPython), Octave, Matlab, R
 * Object Oriented Programming: **JavaScript**, **Python**, Java, **C++**, 
+* Web development: HTML5, CSS, Javascript, AJAX, JSON, web services (RESTful, ...)
 * Database: SQL (IBM DB2, **MySQL**, **SQLite**, Microsoft Access),
 * TDD and BDD: Karma, Jasmine, Chai,
 * Automation Server: Jenkins,
