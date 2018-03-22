@@ -55,6 +55,8 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 **R&D Senior Engineer**
 
+Connectivity - Embedded Solutions Team
+
 - Front-end development (AngularJS, Angular, Karma, Jasmine, Protractor),
 - Back-end development (C++, Node.js),
 - UI/UX design,
