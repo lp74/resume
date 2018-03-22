@@ -51,7 +51,7 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 ## Experiences
 
-### 2017 - today: Power-one Italy S.p.A. a member of the **ABB** group
+### 2017/11 - today : Power-one Italy S.p.A. a member of the **ABB** group
 
 **R&D Senior Engineer**
 
@@ -62,7 +62,7 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 ---
 
-### 2014 - 2017: Power-one Italy S.p.A. a member of the **ABB** group
+### 2014/03 - 2017/10 : Power-one Italy S.p.A. a member of the **ABB** group
 
 **R&D Enginner**
 
@@ -81,7 +81,7 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 ---
 
-### 2012-2014/02: Riacetech S.r.l.
+### 2012-2014/02 : Riacetech S.r.l.
 
 **New Technology Developer**
 
@@ -89,13 +89,13 @@ I managed a small R&D team and I developed software for process automation, mach
 
 ---
 
-### 2004-2006 Università degli Studi di Siena
+### 2004-2006 : Università degli Studi di Siena
 
 **Lecturer** Process Automation course.
 
 ---
 
-### 2001-2012 Self Employed
+### 2001-2012 : Self Employed
 
 **Industrial Automation Engineer**
 
@@ -105,7 +105,7 @@ Warehouse (Electrical and Renewable Energies Market);
 
 ---
 
-### 1999-2001 Elettrostandard S.p.A.
+### 1999-2001 : Elettrostandard S.p.A.
 
 **Electrica Engineer**
 
