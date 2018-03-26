@@ -47,7 +47,7 @@ I have a multi-disciplinary background from both engineering and social sciences
 * Business Intelligence: Tableau Public, Board MIT,
 * Reporting: MS Access, Business Object Crystal reports,
 * Game development and VR/AR/MR: Unity 3D,
-* Design: Adobe Creative Suite: Illustrator, Photoshop, XD XDesign
+* Design: Adobe Creative Cloud: Illustrator CC, Photoshop CC, XD CC
 
 ## Experiences
 
@@ -134,7 +134,7 @@ Warehouse (Electrical and Renewable Energies Market);
 * Business Intelligence: Tableau Public, Board MIT,
 * Reporting: MS Access, Business Object Crystal reports,
 * Game development and VR/AR/MR: Unity 3D,
-* Design: Adobe Creative Suite: Illustrator, Photoshop, XD XDesign
+* Design: Adobe Creative Cloud: Illustrator CC, Photoshop CC, XD CC
 
 ## Other Skills
 
