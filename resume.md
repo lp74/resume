@@ -64,6 +64,12 @@ Connectivity - Embedded Solutions Team
 
 ---
 
+### 2018/04 - today : Talent Scout (contractor)
+
+**Talent Scout/Technical Recruiter**
+
+- Evaluate candidates for motivation, skill level, experience, and knowledge.
+
 ### 2014/03 - 2017/10 : Power-one Italy S.p.A. a member of the **ABB** group
 
 **R&D Enginner**
