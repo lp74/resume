@@ -51,7 +51,7 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 ## Experiences
 
-### 2017/11 - today : Power-one Italy S.p.A. a member of the **ABB** group
+### 2017/11 - TODAY : Power-one Italy S.p.A. a member of the **ABB** group
 
 **R&D Senior Engineer**
 
@@ -64,7 +64,7 @@ Connectivity - Embedded Solutions Team
 
 ---
 
-### 2018/04 - today : Talent Scout (contractor)
+### 2018/04 - TODAY : Talent Scout (contractor)
 
 **Talent Scout/Technical Recruiter**
 
