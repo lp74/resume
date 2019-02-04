@@ -55,9 +55,14 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 **R&D Senior Engineer**
 
+UI Software Architect
 Connectivity - Embedded Solutions Team
 
-- Front-end development (AngularJS, Angular, Karma, Jasmine, Protractor),
+I analyse and design UI Software Architecture.
+I design and develop multi-tier applications, keeping the business tier separated from the presentation tier.
+
+
+- Front-end development (Javascript, Angular, React, ReGraFx),
 - Back-end development (C++, Node.js),
 - UI/UX design,
 - ABB UI style guide contributor & point of contact for EPPE PG.
