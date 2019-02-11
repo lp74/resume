@@ -39,10 +39,10 @@ I have a multi-disciplinary background from both engineering and social sciences
 ### Tools
 
 * Data Analysis: **Python** (and IPython), Octave, Matlab, R
-* Object Oriented Programming: **JavaScript** (AngularJS, Angular, RxJS, D3.js), **Python**, Java, **C++**,
+* Object Oriented Programming: **TypeScript**, **JavaScript** (Angular, React), **Python**, Java, **C++**,
 * Web development: HTML5, CSS, Javascript, AJAX, JSON, web services (RESTful, ...)
 * Database: SQL (IBM DB2, **MySQL**, **SQLite**, Microsoft Access),
-* TDD and BDD: Karma, Jasmine, Chai,
+* TDD and BDD: Jest, Karma, Jasmine, Chai,
 * Automation Server: Jenkins,
 * Business Intelligence: Tableau Public, Board MIT,
 * Reporting: MS Access, Business Object Crystal reports,
@@ -58,11 +58,11 @@ I have a multi-disciplinary background from both engineering and social sciences
 UI Software Architect
 Connectivity - Embedded Solutions Team
 
-I analyse and design UI Software Architecture.
+I analyse and design UI Software Architecture (OOP and FP).
 I design and develop multi-tier applications, keeping the business tier separated from the presentation tier.
 
 
-- Front-end development (Javascript, Angular, React, ReGraFx),
+- Front-end development (TypeScript, JavaScript, Angular, React, ReGraFx),
 - Back-end development (C++, Node.js),
 - UI/UX design,
 - ABB UI style guide contributor & point of contact for EPPE PG.
