@@ -51,7 +51,29 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 ## Experiences
 
-### 2017/11 - TODAY : Power-one Italy S.p.A. a member of the **ABB** group
+### 2019/7/1 - TODAY : Power-one Italy S.p.A. a member of the **ABB** group
+
+**R&D Principal Engineer**
+
+UI Software Architect & UI Designer
+
+- Object Oriented Programming & Functional Programming
+
+- Design patterns, Design principles, Algebraic structures
+- JavaScript (ES5 => ES6 => ES8), HTML, CSS
+- Web Components, Angular, React
+- Redux
+- Webpack, Rollup, Babel
+
+- Node
+- RESTFull
+- Python
+- MySQL
+
+- Adobe Illustrator
+---
+
+### 2017/11 - 2019/7/1 : Power-one Italy S.p.A. a member of the **ABB** group
 
 **R&D Senior Engineer**
 
