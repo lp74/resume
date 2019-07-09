@@ -39,15 +39,16 @@ I have a multi-disciplinary background from both engineering and social sciences
 ### Tools
 
 * Data Analysis: **Python** (and IPython), Octave, Matlab, R
-* Object Oriented Programming: **TypeScript**, **JavaScript** (Angular, React), **Python**, Java, **C++**,
-* Web development: HTML5, CSS, Javascript, AJAX, JSON, web services (RESTful, ...)
+* Object Oriented Programming: **TypeScript**, **JavaScript** (Web components, Angular, React), **Python**, Java, C++,
+* Functional Programming: Redux, Algebraic structures (Monads, Functors, ...)
+* Web development: HTML, CSS, Javascript, AJAX, JSON, web services (RESTful, ...)
 * Database: SQL (IBM DB2, **MySQL**, **SQLite**, Microsoft Access),
 * TDD and BDD: Jest, Karma, Jasmine, Chai,
+* E2E: Protractor, Puppeteer,
 * Automation Server: Jenkins,
 * Business Intelligence: Tableau Public, Board MIT,
-* Reporting: MS Access, Business Object Crystal reports,
-* Game development and VR/AR/MR: Unity 3D,
 * Design: Adobe Creative Cloud: Illustrator CC, Photoshop CC, XD CC
+* Game development and VR/AR/MR: Unity 3D,
 
 ## Experiences
 
