@@ -13,28 +13,28 @@
 
 I am an R&D engineer at ABB specialized in:
 
-* Software Design & Development, 
-* UI design, 
-* Data Visualization, 
+* Software Design & Development,
+* UI design,
+* Data Visualization,
 * Machine Learning.
 
 I am passionate about developing great products and believe strongly in basing technology development and innovation on a solid understanding of people and the social context they work in. Making products that help the users meet their goals effectively is key to drive a successful business. And great fun, too!
 
-I have a multi-disciplinary background from both engineering and social sciences, and I've worn many hats within software development; programmer, automation software engineer, research scientist, project manager, and ux/interaction designer. This enables me to dive into complex challenges from different angles, and is a solid basis for developing innovative, efficient & engaging software user experiences. 
+I have a multi-disciplinary background from both engineering and social sciences, and I've worn many hats within software development; programmer, automation software engineer, research scientist, project manager, and ux/interaction designer. This enables me to dive into complex challenges from different angles, and is a solid basis for developing innovative, efficient & engaging software user experiences.
 
 ### My Goals
 
-- Develop **great products**,
-- Extract relevant information from **data**,
-- **Visualize** them through easy, exciting and innovative **User Interfaces**.
+* Develop **great products**,
+* Extract relevant information from **data**,
+* **Visualize** them through easy, exciting and innovative **User Interfaces**.
 
 ### Method
 
-- Observations, Analytics, ML, AI,
-- Data Analysis and Machine Learning,
-- Information Architecture,
-- Interaction Design,
-- Visual Design.
+* Observations, Analytics, ML, AI,
+* Data Analysis and Machine Learning,
+* Information Architecture,
+* Interaction Design,
+* Visual Design.
 
 ### Tools
 
@@ -54,24 +54,45 @@ I have a multi-disciplinary background from both engineering and social sciences
 
 ### 2019/7/1 - TODAY : Power-one Italy S.p.A. a member of the **ABB** group
 
-**R&D Principal Engineer**
+#### R&D Principal Engineer
 
 UI Software Architect & UI Designer
 
-- Object Oriented Programming & Functional Programming
+Data Visualization UI design and development.
+My work involves data analysis and data transformation.
 
-- Design patterns, Design principles, Algebraic structures
-- JavaScript (ES5 => ES6 => ES8), HTML, CSS
-- Web Components, Angular, React
-- Redux
-- Webpack, Rollup, Babel
+Software engineering:
 
-- Node
-- RESTFull
-- Python
-- MySQL
+* Object Oriented Programming & Functional Programming
+* Design patterns, Design principles, Algebraic structures,
 
-- Adobe Illustrator
+Machine Learning and Big Data:
+
+* Data cleansing
+* Dimensionality reduction (PCA, SVD) and feature engineering
+* Regression, classification, clustering (Scikit, Tensorflow)
+* Real time Data Analysis (Kafka)
+
+Backend Development:
+
+* NodeJS
+* Python
+* RESTFull API
+* MySQL
+
+Fontend Development:
+
+* JavaScript, HTML, CSS,
+* Web Components (Lit-Element), Angular, React
+* Tensorflow.js
+* D3.js
+* Redux
+* Webpack, Rollup, Babel
+
+Bid Data
+
+* Kafka
+
 ---
 
 ### 2017/11 - 2019/7/1 : Power-one Italy S.p.A. a member of the **ABB** group
