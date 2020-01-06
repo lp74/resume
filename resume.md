@@ -5,7 +5,7 @@
             I-52100 Arezzo (AR)  
             Italy  
 
-@Mobile:    +39 351.949.7891 
+@Mobile:    +39 351.949.7891  
 @Email:     luca.polverini@gmail.com  
 @Web:       [linkedin](https://www.linkedin.com/in/lucapolverini/)
 
@@ -92,6 +92,10 @@ Fontend Development:
 Bid Data
 
 * Kafka
+
+Blockchain
+
+* Solidity (Ethereum)
 
 ---
 
@@ -203,7 +207,7 @@ Warehouse (Electrical and Renewable Energies Market);
 * I know PLC programming (Panasonic, Scheneider Electric, Siemens) and SCADA: WinCC, Citect.
 
 ## Other Experiences
-
+* 2020 - Blockchain by University at Buffalo & The State University of New York on Coursera. Certificate earned at January 5, 2020
 * 2017 - Kaggle competition BNP Paribas Cardif Claims Management: Ranking TOP 10%
 * 2015 – Patent Filling: Method for forecasting the power daily generable by a solar
 * 2014 – Design model: innovative UI for solar inverters,
