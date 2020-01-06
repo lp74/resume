@@ -231,7 +231,7 @@ Science and Math High School Diploma with first class honours (60/60). Liceo Sci
 
 ### 2012 - today
 
-I am a lifelong learner and I constantly enrol in MOOC dealing with: Machine learning, Logic and Math, Visual Design, Visual Development, Storytelling, Cognitive Psychology, UX Design.
+I am a lifelong learner and I constantly enrol in MOOC dealing with: Blockchain, Distributed file system, Machine learning, Logic and Math, Visual Design, Visual Development, Storytelling, Cognitive Psychology, UX Design.
 
 ## Personal Interest 
 
