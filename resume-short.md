@@ -167,5 +167,4 @@ Abilitazione all'esercizio della professione di ingegnere - Università degli S
 
 ### 1993
 
-Diploma di maturità scientifica conseguita con il massimo dei voti (60/60)
-Science and Math High School Diploma with first class honours (60/60). Liceo Scientifico "F. Redi" – Arezzo.
+Diploma di maturità scientifica conseguita con il massimo dei voti (60/60) - Liceo Scientifico "F. Redi" – Arezzo.
